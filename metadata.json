@@ -1,0 +1,5 @@
+{
+  "name": "N8N Image Gen",
+  "description": "A sleek text-to-image generator interface that connects to a custom N8N webhook.",
+  "requestFramePermissions": []
+}
